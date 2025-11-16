@@ -17,9 +17,9 @@ The dataset contains medical attributes such as:
 - Exercise-induced angina
 - ST depression (oldpeak)
 - Slope, CA, and Thal values
-- Target (1 = heart disease, 0 = healthy)
+- Target "cardio" (1 = heart disease, 0 = healthy)
 
-The "target" column is the output label used for prediction.
+The "cardio" target column is the output label used for prediction.
 
 Project Workflow
 ----------------
@@ -61,8 +61,8 @@ How to Run
 
 File Structure
 --------------
-- heart.csv  
-- notebook.ipynb  
+- cardio_train.csv  
+- Minor_Cardio_Project.ipynb  
 - README.txt  
 
 Conclusion
