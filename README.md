@@ -70,6 +70,7 @@ Conclusion
 Machine learning provides powerful tools for identifying heart disease risk by analyzing medical patterns. This project demonstrates how multiple algorithms can be evaluated and refined to build an effective prediction model.
 
 --------------------------------------------------------
-Project by: **Manaswi Priya Maddu**
-November 2025
---------------------------------------------------------
+## Author 
+**Manaswi Priya Maddu**
+
+**November 2025** 
