@@ -71,6 +71,5 @@ Machine learning provides powerful tools for identifying heart disease risk by a
 
 --------------------------------------------------------
 Project by: **Manaswi Priya Maddu**
-
 November 2025
 --------------------------------------------------------
